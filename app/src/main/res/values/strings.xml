@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+    <string name="griflayout">GrifLayout</string>
+    <string name="gridlayout">GridLayout</string>
+</resources>

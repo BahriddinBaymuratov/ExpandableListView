@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="10dp"
+    android:padding="8dp"
+    android:textColor="@color/purple_500"
+    android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+    android:text="@string/gridlayout"
+    android:textSize="23sp" />
